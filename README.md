@@ -7,7 +7,7 @@
       📦 Dataset Kaggle
     </a>
     &nbsp;&middot;&nbsp;
-    <a href="https://colab.research.google.com/">
+    <a href="https://colab.research.google.com/drive/1F-I1lFUgkRraUAQUughWNNVwivQdzhZt?usp=sharing">
       🚀 Open in Colab
     </a>
   </p>
@@ -212,7 +212,6 @@ pip install transformers gensim swifter wordcloud PySastrawi scikit-learn
 ## 👤 Author
 
 **Farrel Farica F.**
-Universitas — Kelas KDD01 (NIM: 034)
 
 - 🐙 GitHub: [@farrelfaricaf](https://github.com/farrelfaricaf)
 - 💼 LinkedIn: [linkedin.com/in/farrelfaricaf](https://www.linkedin.com/in/farrelfaricaf/)
